@@ -1,0 +1,6 @@
+[submodule "scripts/codehunt-data-py"]
+	path = scripts/codehunt-data-py
+	url = https://github.com/dperelman/codehunt-data-py
+[submodule "scripts/codehunt-data-cs"]
+	path = scripts/codehunt-data-cs
+	url = https://github.com/dperelman/codehunt-data-cs
