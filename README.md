@@ -1,4 +1,4 @@
-# ![Code Hunt Logo](http://research.microsoft.com/en-us/projects/codehunt/CodeHunt-sm.png)
+# ![Code Hunt Logo](https://www.microsoft.com/en-us/research/uploads/prod/2016/02/codehunt-CodeHunt-sm.png)
 
 [Code Hunt](https://www.codehunt.com/) is a serious education game which has been played by over 140,000 students and enthusiasts over the past year. In the process we have collected over 1.5M programs, which we can link to specific users at specific levels of expertise. We hope that researchers will embark on research into the data, discovering how coders code and how technology can be used to make the process more accurate and less painful. Although there has been research on how students code in the past, Microsoft Research is offering a unique opportunity to conduct research on large, common data sets. 
 
